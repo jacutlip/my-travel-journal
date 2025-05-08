@@ -16,11 +16,11 @@ Make sure you have the following installed on your system:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/jacutlip/meme-generator.git
+   git clone https://github.com/jacutlip/my-travel-journal.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd meme-generator
+   cd my-travel-journal
    ```
 3. Install the dependencies:
    ```bash
